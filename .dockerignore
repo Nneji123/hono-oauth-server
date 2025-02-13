@@ -1,0 +1,12 @@
+.env.example
+.gitignore
+.gitpod.yml
+example.js
+.github/
+logs/
+.prettierignore
+.prettierrc.json
+README.md
+.husky
+tests/
+.idx/
